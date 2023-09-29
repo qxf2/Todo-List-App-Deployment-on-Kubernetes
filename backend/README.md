@@ -22,8 +22,8 @@ To run this application, you'll need to have Python and Docker installed. Follow
 1. **Clone this repository to your local machine:**
 
    ```bash
-   git clone https://github.com/rohandudam/Todo-List-App-Deployment-on-Kubernetes.git
-   cd backend
+   git clone https://github.com/qxf2/Todo-List-App-Deployment-on-Kubernetes.git
+   cd Todo-List-App-Deployment-on-Kubernetes/backend
    ```
 2. **Create a virtual environment (optional but recommended)**
     ```bash

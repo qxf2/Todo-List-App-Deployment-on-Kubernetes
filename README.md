@@ -24,8 +24,8 @@ Before you begin, ensure you have the following prerequisites installed:
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/rohandudam/Todo-List-App-Deployment-on-Kubernetes.git
-   cd your-repo
+   git clone https://github.com/qxf2/Todo-List-App-Deployment-on-Kubernetes.git
+   cd Todo-List-App-Deployment-on-Kubernetes
    ```
 
 2. **Create a secret for MySQL Database:**

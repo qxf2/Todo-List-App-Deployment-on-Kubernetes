@@ -20,8 +20,8 @@ Before you begin, ensure you have the following prerequisites:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/rohandudam/Todo-List-App-Deployment-on-Kubernetes.git
-   cd frontend
+   git clone https://github.com/qxf2/Todo-List-App-Deployment-on-Kubernetes.git
+   cd Todo-List-App-Deployment-on-Kubernetes/frontend
    ```
 
 2. Install the project dependencies:
